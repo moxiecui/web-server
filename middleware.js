@@ -9,4 +9,4 @@ var middleware = {
  	}
 };
 
-method.export = middleware;
+module.exports = middleware;
